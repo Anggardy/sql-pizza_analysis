@@ -10,10 +10,19 @@ melihat data transaksi tahun 2015 ini masih berupa data mentah. Untuk menyusun s
 
 ## 📝 Result
 ### 1. KPI Summary
+<img src="images/Problem1-KPI.jpg" alt="KPI Summary" width="500"/>
+
 ### 2. 5 Menu Teratas dan Terbawah
+<img src="images/Problem2-PizzaRevenue.jpg" alt="Pizza Revenue" width="500"/>
+
 ### 3. Volume Penjualan per Jam
+<img src="images/Problem3-PeakHour.jpg" alt="Pizza Revenue" width="500"/>
+
 ### 4. Revenue per Kategori dan Ukuran
+<img src="images/Problem4-Segmentation.jpg" alt="Pizza Revenue" width="500"/>
+
 ### 5. Pertumbungan Pendapatan Kumulatif
+<img src="images/Problem5-DailyRevenue.jpg" alt="Pizza Revenue" width="500"/>
 
 ## ⚡Quick Business Insight
 - Peak Hours terjadi sekitar jam makan siang (12.00-13.00) dan sepulang kerja (17.00-19.00) untuk itu ada baiknya untuk menyesuaikan jumlah karyawan dan menyiapkan bahan-bahan sebelum jam tersebut tiba agar proses pelayanan bisa lebih efektif.
